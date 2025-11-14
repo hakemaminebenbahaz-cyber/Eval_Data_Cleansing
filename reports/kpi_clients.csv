@@ -1,0 +1,2 @@
+rows_before,rows_after,duplicates_removed,missing_rows,invalid_emails,pct_invalid_emails
+50000,42834,7166,7166,0,0.0
